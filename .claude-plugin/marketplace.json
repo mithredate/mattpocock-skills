@@ -1,0 +1,17 @@
+{
+  "name": "mattpocock-skills",
+  "owner": {
+    "name": "Matt Pocock"
+  },
+  "metadata": {
+    "description": "A collection of agent skills that extend capabilities across planning, development, and tooling."
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "source": "./",
+      "description": "A collection of agent skills that extend capabilities across planning, development, and tooling.",
+      "strict": false
+    }
+  ]
+}
